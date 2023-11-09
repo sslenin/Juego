@@ -35,6 +35,7 @@
       <plugin>
         <groupId>com.microsoft.azure</groupId>
         <artifactId>azure-webapp-maven-plugin</artifactId>
+        <version>1.15.0</version>
         <configuration>
           <schemaVersion>2.0</schemaVersion>
           <resourceGroup>Gr Aplicaciones</resourceGroup>
